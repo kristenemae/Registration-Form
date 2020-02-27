@@ -1,0 +1,18 @@
+.form-control{
+  background-color: #ffe6ff;
+}
+
+select{
+  background-color: #ffe6ff ;
+}
+body{
+  background-image: url('../background.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: .70;
+}
+.me{
+  background-color: #ff99ce;
+  opacity: .50;
+}
